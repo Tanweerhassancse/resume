@@ -171,6 +171,14 @@ body{
     padding: 10px;
     font-size: 40px;
 }
+#mail a{
+    color: white;
+    text-decoration: none;
+}
+#call {
+    color: white;
+}
+
 .contact .btn{
     padding: 10px 25px 10px 25px;
     margin: 5px;
