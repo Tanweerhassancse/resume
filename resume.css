@@ -59,7 +59,7 @@ body{
     margin-bottom: -130px;
 }
 .profile-img{
-    height: 400px;
+    height: 300px;
     border-radius: 30%;
     border: 10px solid black;
     
@@ -180,6 +180,10 @@ body{
     color: white;
 }
 #call a{
+    text-decoration: none;
+}
+#link a{
+    color: white;
     text-decoration: none;
 }
 .btn a{
