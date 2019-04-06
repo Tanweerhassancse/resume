@@ -4,8 +4,8 @@ body{
     font-family: sans-serif;
 }
 /*---------------------Header CSS--------------------*/
-#header{
-    height: 100vh;
+#header, #particles-js{
+    /* height: 100vh; */
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(background.jpg);
     background-position: center;
     background-size: cover;
